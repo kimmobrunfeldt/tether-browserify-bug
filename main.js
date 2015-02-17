@@ -1,0 +1,1 @@
+var Tether = require('tether');

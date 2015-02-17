@@ -1,0 +1,14 @@
+{
+  "name": "test-tether",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kimmo Brunfeldt <kimmobrunfeldt@gmail.com> (http://kimmobrunfeldt.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "tether": "^0.6.5"
+  }
+}
